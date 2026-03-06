@@ -51,7 +51,7 @@ https://1s1.rctiplus.id/anevia1/rcti-sdi.m3u8?auth_key=1772800415-2005fea994d08b
 https://1s1.rctiplus.id/anevia3/gtv-sdi.m3u8?auth_key=1772800424-746e041360b39ae410772bf50e3c353a-0-dac494adb812dbac6ede2665350a1770
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/INews_2024.svg/512px-INews_2024.svg.png" http-referrer="https://www.rctiplus.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Indonesia",iNews
+#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/INews.png" http-referrer="https://www.rctiplus.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Indonesia",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://1s1.rctiplus.id/anevia4/inews-sdi.m3u8?auth_key=1772800427-5d2165999303fad5ae0a8da1f03808ed-0-78cb1114f1371ec6235bbe1a4b1e0699
@@ -60,6 +60,7 @@ https://1s1.rctiplus.id/anevia4/inews-sdi.m3u8?auth_key=1772800427-5d2165999303f
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/Trans7.m3u8
+
 
 
 
