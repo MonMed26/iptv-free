@@ -56,11 +56,12 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://1s1.rctiplus.id/anevia4/inews-sdi.m3u8?auth_key=1772886102-9edd1b5e59814fe1b89b4390f1121bf0-0-8e03146f2be57d504c9f33e2620c3bb0
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/1920px-Antv_logo.svg.png" group-title="General",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" group-title="General",ANTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJraWQiOiJjMTgxOTkzYy1mODUyLTQ0MmQtOTY1Yi1hMmI3MzU4ZGI5NjkiLCJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjEsImlzcyI6InZpc2lvbnBsdXMiLCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDAxMCIsImlhdCI6MTc3Mjg1NTY2NSwiZXhwIjoxNzcyODU2MjY1LCJqdGkiOiI1ZWIyNzFjZS0xZGE0LTRkYTQtOGMzMy02YmE1NTI0M2QwZmYiLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsInBvbGljeSI6eyJ3aWRldmluZSI6eyJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJjYW5fcGVyc2lzdCI6ZmFsc2V9fSwiaXp6aUN1c3RvbWVyIjoiTU5DOjc3MzMxNjA4IiwiaXp6aURldmljZUlkIjoiNjBmNzZkNTUtZjZmMi00ZTRhLWIxNmItYTM4YjM1YjIzNmNkIiwiaXp6aVZJUCI6ZmFsc2V9.YIiqw1ljPiIQu0gg8Qjhc01R_9Ot799uaZTjUBS0XhwJ7EzQyzLudZkfTUER8uPFynJThkEUKE_mUMKt_F-Q7w
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
 
 
 
