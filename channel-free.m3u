@@ -57,7 +57,8 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 https://1s1.rctiplus.id/anevia4/inews-sdi.m3u8?auth_key=1772973159-67e94f194d0255ac88f74e4ac181323c-0-023cb0c5fd4ed6fdbf748fcb7fe3ab02
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
-http://192.168.222.65:8081/antv/stream.m3u8
+http://192.168.222.65:8888/stream.m3u8
+
 
 
 
