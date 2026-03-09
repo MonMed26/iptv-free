@@ -56,8 +56,9 @@ https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://1s1.rctiplus.id/anevia4/inews-sdi.m3u8?auth_key=1773031258-15980f3ad898f1e40e41e9df8a8752ab-0-d59eefbdd54acde2c695be8165249c70
 
-#EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
-http://192.168.222.65:8888/stream.m3u8
+#EXTINF:-1 tvg-id="sportstart2.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",SPORT START2
+http://202.70.146.135:8000/play/a026/index.m3u8
+
 
 
 
