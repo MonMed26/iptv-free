@@ -30,6 +30,9 @@ https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/MonMed26/iptv-free/refs/heads/main/logo/LogoMetroTVsince2010.svg.png" group-title="General",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="StarSports2Tamil.in@SD" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Vision+",SPORT
+http://202.70.146.135:8000/play/a026/index.m3u8
+
 #EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/MonMed26/iptv-free/refs/heads/main/logo/512px-TvOne_2023.svg.png" group-title="General",TV One
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
@@ -58,6 +61,7 @@ https://1s1.rctiplus.id/anevia4/inews-sdi.m3u8?auth_key=1773031258-15980f3ad898f
 
 #EXTINF:-1 tvg-id="StarSports2Tamil.in@SD" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="Vision+",SPORT
 http://202.70.146.135:8000/play/a026/index.m3u8
+
 
 
 
