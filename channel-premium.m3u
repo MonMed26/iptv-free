@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/antv-v/master.m3u8
+
+#EXTINF:-1 tvg-id="Transtv.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/trans-tv-v/master.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/trans-7-v/master.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/rcti-v/master.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/sctv-v/master.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/mnc-tv-v/master.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/gtv-v/master.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/sportstars-1-v/master.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/sportstars-2-v/master.m3u8
+
+#EXTINF:-1 tvg-id="ANTV.id tvg-url=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/330px-Antv_logo.svg.png" group-title="Vision+",ANTV
+http://192.168.222.64:3000/channel/sportstars-4-v/master.m3u8
