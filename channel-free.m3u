@@ -40,24 +40,24 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/MonMed26/iptv-free/refs/heads/main/logo/1024px-MNCTV_logo.png" http-referrer="https://www.rctiplus.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://1s1.rctiplus.id/anevia2/mnctv-sdi.m3u8?auth_key=1773404948-8d30c1caa190e2b8e1ab1ce4596c0c5a-0-acd6cbb4e9c63d1b9ff8df673f8278a1
+https://1s1.rctiplus.id/anevia2/mnctv-sdi.m3u8?auth_key=1773421244-5fdbad9d97a07c808c7b39e8cf70873a-0-c9349e9d71515972d1dff2ddf119f99e
 https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/MonMed26/iptv-free/refs/heads/main/logo/256px-RCTI_logo_2015.svg.png" http-referrer="https://www.rctiplus.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://1s1.rctiplus.id/anevia1/rcti-sdi.m3u8?auth_key=1773404947-7cd7353839a9890f11aedcf09adf7584-0-743f1f032af6cda305015ee24b2f71f3
+https://1s1.rctiplus.id/anevia1/rcti-sdi.m3u8?auth_key=1773421241-ef2c571e5a702593ab9067ab6cf3f913-0-1d2b26f2050b1817d5593a89049345a4
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/MonMed26/iptv-free/refs/heads/main/logo/500px-GTV_(2017).svg.png" http-referrer="https://www.rctiplus.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://1s1.rctiplus.id/anevia3/gtv-sdi.m3u8?auth_key=1773404950-d92af878741ed8cef1941132d91c2525-0-62dd684f23c4380c3c5c71d3b036f433
+https://1s1.rctiplus.id/anevia3/gtv-sdi.m3u8?auth_key=1773421247-8200b6322df1a2fd9731d579dd8a6e9f-0-7f432df7cb1e1f482b480777d1a79572
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/MonMed26/iptv-free/refs/heads/main/logo/512px-INews.svg.png" http-referrer="https://www.rctiplus.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://1s1.rctiplus.id/anevia4/inews-sdi.m3u8?auth_key=1773404952-7bf6bd3f1157699b71d345296dc3483c-0-51cf19f6a3b742bf353c570b984c1d68
+https://1s1.rctiplus.id/anevia4/inews-sdi.m3u8?auth_key=1773421249-dad0d0fb41f58484a5c48db7799466cf-0-8f076f55828b67833838f808f733c199
 
 #EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="Local",ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
