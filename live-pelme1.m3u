@@ -1,7 +1,4 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/pryR8QQC/20260203-062726.jpg" group-title="Nasional", * DONASI PAKE QRIS
-https://github.com/lusianaputri/Gcikar-TV/raw/refs/heads/main/VID-20260203-WA0000.mp4
 
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg" group-title="Nasional",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
