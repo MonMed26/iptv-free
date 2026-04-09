@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 group-title="Channel Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWXLEjqZOOO2LT5C_1aBWyMBW7K3X8UaK2r3jmKvNbuXaWpei7VO_9LR1lfKqXhTIvYjciKBzFsa2ENtKRmI5snupnZUB4zdLh-mzhgQwwryclFl-OCE-auGTDPhjOog0Wv36dnGXU1WJTG3T9yT-ZcWj7ddXMMZTLilzzt8rrZd7zLmHd221buxvteyRU/s700/GTV.png",GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTINF:-1 group-title="Channel Lokal" tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png",MNC TV
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGUpnDNapRqDPfMoMaG_kTQ0yS0xq62nKhLeT1r7jKAEMmEGc5zuNFH5tdiFKl2ZxDubmvkiFWAEe8TVX3zTGDk0Eq06yn_w34AZSCjcnO2oqmk4R9yyQOmJFAupiir8lR0gbG3RUst9wspuVyM98eGjg_TZlCNyNmwIikMKHDE9gcNeX29VLvBybKlWE/s700/iNewsSportsTV.jpg" group-title="Live Event",iNews Sports
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHx_skAn6anM8qj6Ahex7AJxWZHtIp0B0_4J35c52cqIUwtXSwv0LqnkwYuG0B83B3LaA0D18Q9qR6j1YVJOTWSeW3TfKeT1yC1chLnKPzu1fwyii-AsTOAKy4WMssIFm19LtZfJVE7gtqsls0PY72HMT2HGghmvnEWOtvYceTMa3V7bMGR3Tzrfcu7o/s700/RCTIplus.png" group-title="Channel Lokal",RCTI+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
