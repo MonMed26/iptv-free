@@ -50,12 +50,12 @@ https://vodkk23.rctiplus.id/hls/2023-12/kk_soccer_loop.m3u8
 #EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/MonMed26/iptv-free/refs/heads/main/logo/500px-GTV_(2017).svg.png" http-referrer="https://www.rctiplus.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1777401063~hmac=816051cdfca69ce6166db309ea2d5c11450ae006f3b153e2d88aeb62d6069170
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1777422186~hmac=0a7407e7833712bd73f82bad6420bcc53e2e1a3e407ccae310d56f37dc995320
 
 #EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/MonMed26/iptv-free/refs/heads/main/logo/512px-INews.svg.png" http-referrer="https://www.rctiplus.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1777401066~hmac=c918824b77b1566ab36ff08c394a8bae124ccf8abaa9b2bde7738fd5688f02ff
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1777422188~hmac=1035c72d4eec542282e8f028277dc5d7e189e25d5fe89c5a06d592e17e862fc5
 
 
 
